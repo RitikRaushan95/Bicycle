@@ -9,8 +9,7 @@ body{
   justify-content: center;
   align-items: center;
   height: 100vh;
-  margin: 0;
-
+  margin-top: 15rem;
 }
 .backWheel {
   width: 12.5rem;
